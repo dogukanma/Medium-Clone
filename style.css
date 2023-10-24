@@ -1,0 +1,202 @@
+.navContainer{
+  background-color: #FFC017;
+  border-bottom: 1px solid black;
+  font-family: "Sohne", sans-serif;
+}
+
+nav{
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.customNavItem{
+  margin-right: 25px;
+  margin-top: 9px;
+}
+
+.customNavLink{
+  text-decoration: none;
+  color: black;
+  transition: color 200ms ease;
+}
+
+.customNavLink:hover{
+  color: rgb(103, 103, 103);
+}
+
+.icon-medium{
+  height: 40px;
+  margin-bottom: 6px;
+  margin-right: -2px;
+}
+
+.navbar-brand{
+  font-family: 'Bodoni Moda', serif;
+  font-size: 36px;
+  letter-spacing: -1.5px;
+  margin-left: 10px;
+}
+
+.btn-getStartedWrapper{
+  margin-top: -2px;
+}
+
+.btn-getStarted{
+  border: solid 1px black;
+  background-color: black;
+  border-radius: 99em;
+  color: white;
+  padding: 8px 16px;
+  width: 104px;
+  transition: background-color 200ms ease;
+}
+
+.btn-getStarted:hover{
+  background-color: rgb(67, 67, 67);
+}
+
+.link-getStarted{
+  color: white;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.topSection{
+  background-color: #FFC017;
+  border-bottom: 1px solid black;
+}
+
+.top-textSection{
+  margin-top: 60px;
+}
+
+.container-insideSection{
+  padding: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 80px;
+  margin-right: 100px;
+}
+
+#topSectionImg{
+  height: 400px;
+  border-radius: 100%;
+}
+
+#topSectionHeading1{
+  font-family:'Times New Roman', Times, serif;
+  font-weight: 500;
+  font-size: 106px;
+  color: black;
+}
+
+#topSectionHeading3{
+  font-size: 24px;
+  font-weight: 600;
+  font-family: 'Roboto', sans-serif;
+  margin-top: 20px;
+}
+
+#btn-startReading{
+  border: solid 1px black;
+  background-color: black;
+  border-radius: 99em;
+  color: rgb(178, 178, 178);
+  padding: 6px 20px;
+  font-size: 20px;
+  width: 213px;
+  margin-top: 40px;
+  transition: background-color 200ms ease;
+}
+
+#btn-startReading:hover{
+  background-color: rgb(67, 67, 67);
+}
+
+#link-startReading{
+  color: white;
+  text-decoration: none;
+}
+
+.midTopSection{
+  border-bottom: 1px solid grey;
+}
+
+.trendingSection{
+  margin-top: 20px;
+  margin-bottom: 8px;
+}
+
+.text-trending{
+  margin-top: -6px;
+  margin-left: 10px;
+  font-weight: 500;
+}
+
+/* .titleSection{
+  
+} */
+
+.noTitleSection{
+  padding-left: 30px;
+}
+
+.titleNumber{
+  color: #F2F2F2;
+  font-weight: 600;
+  font-size: 32px;
+  margin-top: -10px;
+}
+
+.profilePhoto{
+  border-radius: 100%;
+  margin-bottom: 2px;
+}
+
+.name{
+  margin-left: 2px;
+  margin-bottom: 2px;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.info{
+  font-weight: 400;
+  font-size: 13px;
+  margin-top: -3px;
+  margin-bottom: 24px;
+  color: #6B6B6B;
+}
+
+/* .bottomSection{
+  
+} */
+
+.titles-bottom{
+  border: 1px solid red;
+}
+
+.buttons-bottom{
+  border: 1px solid green;
+}
+
+.btn-bottom{
+  border: solid 1px #F2F2F2;
+  background-color: #F2F2F2;
+  border-radius: 99em;
+  color: #242424;
+  padding: 8px 16px;
+  font-size: 14px;
+  font-family: "sohne", "Helvetica Neue", Helvetica, Arial, sans-serif;;
+  width: 213px;
+  margin-top: 40px;
+  transition: background-color 200ms ease;
+}
+
+.btn-bottom:hover{
+  background-color: rgb(67, 67, 67);
+}
+
+.tags-bottom{
+  margin-bottom: 30px;
+}
